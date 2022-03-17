@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StreetMindZh
+- 👋 Hi, I’m @StreetMindz
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Wordpress & BuddyPress
